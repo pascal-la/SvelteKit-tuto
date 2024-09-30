@@ -17,3 +17,5 @@
 		<a href="/media/path/to/image/200/300">/media/path/to/image/200/300</a>
 	</li>
 </ul>
+
+<p>You can browse posts here.</p>
